@@ -36,6 +36,7 @@ O usuário informa um número inicial e um número final e, ao clicar em **Sorte
 git clone URL_DO_REPOSITORIO] 
 ```
 (https://aleblack25.github.io/Projeto_Sorteador/)
+
 2. Abra a pasta do projeto.
 
 3. Execute o arquivo `index.html` ou utilize a extensão **Live Server** no VS Code.
