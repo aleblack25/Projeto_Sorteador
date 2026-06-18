@@ -32,8 +32,8 @@ O usuário informa um número inicial e um número final e, ao clicar em **Sorte
 
 1. Clone este repositório:
 
-```bash
-git clone URL_DO_REPOSITORIO
+```bash[
+git clone URL_DO_REPOSITORIO](https://aleblack25.github.io/Projeto_Sorteador/)
 ```
 
 2. Abra a pasta do projeto.
